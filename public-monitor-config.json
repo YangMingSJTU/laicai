@@ -1,0 +1,6 @@
+{
+  "contract": "public-monitor-config/v1",
+  "public_api_origin": "https://legion2022.tail01ae2e.ts.net",
+  "expected_host": "legion2022.tail01ae2e.ts.net",
+  "base_path": "/laicai/"
+}
